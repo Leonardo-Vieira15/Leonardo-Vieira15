@@ -1,11 +1,6 @@
 <h1 align="center">Hi, I'm Leonardo Vieira</h1>
 <h3 align="center">A passionate developer from Azores</h3>
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=leonardo-vieira15&label=Profile%20views&color=0e75b6&style=flat" alt="leonardo-vieira15" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=leonardo-vieira15" alt="leonardo-vieira15" /></a> </p>
-
 - 🌱 I’m currently learning **Scala**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Leonardo-Vieira15](https://github.com/Leonardo-Vieira15)
