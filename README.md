@@ -1,6 +1,10 @@
 <h1 align="center">Hi, I'm Leonardo Vieira</h1>
 <h3 align="center">A passionate developer from Azores</h3>
 
+
+
+
+
 - 🌱 I’m currently learning **Scala**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Leonardo-Vieira15](https://github.com/Leonardo-Vieira15)
