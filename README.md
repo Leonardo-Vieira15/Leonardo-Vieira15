@@ -1,3 +1,4 @@
+![logo](https://github.com/Leonardo-Vieira15/Leonardo-Vieira15/blob/main/Leonardo%20Banner.png)
 <h1 align="center">Hi, I'm Leonardo Vieira</h1>
 <h3 align="center">A passionate developer from Azores</h3>
 
